@@ -1,6 +1,8 @@
 # CUHK03 extracted images from the .mat file
 CUHK03 is the first person re-identification dataset that is large enough for deep learning. It provides the bounding boxes detected from deformable part models (DPM) and manually labeling. This dataset was published in 2014 by [this article](https://openaccess.thecvf.com/content_cvpr_2014/html/Li_DeepReID_Deep_Filter_2014_CVPR_paper.html). The original file of this dataset in .mat format can be downloaded [here](https://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html).
 
+Images of this database in .jpg format can be downloaded [here](https://drive.google.com/drive/folders/19B-_qzgUijKojXvC9XONqsGWkdOHMZ8Z?usp=sharing).
+
 # CUHK03 
 This dataset is collected from The Chinese University of Hong Kong (CUHK) campus. The data is stored in a matlab file named cuhk03.mat.The CUHK03 dataset includes 14,097 images of 1,467 pedestrians.
 
